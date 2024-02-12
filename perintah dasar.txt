@@ -1,7 +1,7 @@
 git init :
 git init adalah Inisialisasi repositori Git baru di direktori saat ini.
 
-git clone [URL]
+git clone [URL] :
 git clone https://github.com/username/repository.git
 Mengkloning repositori Git yang sudah ada dari URL ke direktori lokal Anda.
 
